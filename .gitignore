@@ -13,8 +13,6 @@ Cargo.lock
 test_snapshots/
 
 # Environment
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -28,3 +26,4 @@ Thumbs.db
 *.wasm
 .soroban
 issues.md
+config.bat
